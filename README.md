@@ -1,8 +1,6 @@
-# heading 1
+# Heap Management && Garbage Collection system
 
-some text
-
-# heading 2
-
-some text from localrepo1
-some more text from localrepo1
+Synopsis: Implemented Heap management system by implementing *“malloc”* and *“free”* function of C/C++ using 
+Linked list as Data Structure & using *Fibonacci heap* method to implement Free list management. Garbage 
+Collection implemented using *Mark Sweep* method and *Counting Reference* technique using Linked list as data
+structure
